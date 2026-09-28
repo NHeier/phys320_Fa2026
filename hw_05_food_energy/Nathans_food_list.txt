@@ -11,4 +11,4 @@ Frozen Blueberries, Fruit, 3.12, 210,
 Frozen Peas, Vegetable, 0.98, 280,
 80/20 Beef, Proteins, 6.93, 1120,
 Doritos Nacho Cheese, Grains, 3.97, 1350,
-Chia Seeds, Proteins, 10.78, 4560
+Chia Seeds, Proteins, 10.78, 4560,
